@@ -35,8 +35,8 @@ role.
 - THEN I am prompted to select an employee to update and their new role and this information is updated in the database.
 
 ## Demo Video
+[EmployeeManagement.webm](https://user-images.githubusercontent.com/105763252/188040766-5fd96da4-6449-403e-94d6-62bfd3290d92.webm)
 
-[Uploading EmployeeManagement.webm…]()
 
 ## GitHub Repository Link
 https://github.com/mikejmarin25/Employee-Tracker-Ch-12/
