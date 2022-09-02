@@ -42,6 +42,7 @@ role.
 https://github.com/mikejmarin25/Employee-Tracker-Ch-12/
 
 ## Live Application Link
+https://mikejmarin25.github.io/Employee-Tracker-Ch-12/README.md
 
 ## Screenshots
 <img width="1159" alt="Screen Shot 2022-09-01 at 21 31 33" src="https://user-images.githubusercontent.com/105763252/188040548-815abdb4-a5cf-4faa-84e4-7d30f99c0855.png">
