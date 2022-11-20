@@ -48,3 +48,8 @@ https://mikejmarin25.github.io/Employee-Tracker-Ch-12/README.md
 <img width="1159" alt="Screen Shot 2022-09-01 at 21 31 33" src="https://user-images.githubusercontent.com/105763252/188040548-815abdb4-a5cf-4faa-84e4-7d30f99c0855.png">
 
 <img width="945" alt="Screen Shot 2022-09-01 at 21 37 52" src="https://user-images.githubusercontent.com/105763252/188040560-6aaf9482-6aaf-47bf-ac37-32827f4f3b87.png">
+
+## Installation Guide:
+- mysql -u root -p (enter password)
+- source sql/schema.sql (loads the schema)
+- source sql/seed.sql (loads the data)
