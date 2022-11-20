@@ -53,3 +53,4 @@ https://mikejmarin25.github.io/Employee-Tracker-Ch-12/README.md
 - mysql -u root -p (enter password)
 - source sql/schema.sql (loads the schema)
 - source sql/seed.sql (loads the data)
+- run node server.js to begin the application
